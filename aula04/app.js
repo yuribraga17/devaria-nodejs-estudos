@@ -18,3 +18,10 @@ do{
     console.log(`Posição: ${controladorDoWhile}: Valor lido: ${listaArgumentos[controladorDoWhile]}`);
     controladorDoWhile++;
 }while(controladorDoWhile < listaArgumentos.length)
+
+console.log('--------------[EXECUTANDO DO FOR OF]--------------');
+let ControladorForOf = 0;
+for(const argumento of listaArgumentos){
+    console.log(`Posição: ${ControladorForOf}: Valor lido: ${argumento}`);
+    ControladorForOf++;
+}
