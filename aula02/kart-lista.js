@@ -1,6 +1,3 @@
-const { read } = require('fs');
-const { Readline } = require('readline/promises');
-
 const readLine = require('readline').createInterface({
     input: process.stdin,
     output: process.stdout
