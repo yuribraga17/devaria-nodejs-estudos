@@ -1,0 +1,16 @@
+{
+  "name": "projeto-teste",
+  "version": "0.0.1",
+  "description": "testando livrarias devaria",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teste",
+    "npm",
+    "nodejs"
+  ],
+  "author": "Yuri Braga",
+  "license": "ISC"
+}
