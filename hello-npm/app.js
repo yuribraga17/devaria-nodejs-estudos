@@ -1,3 +1,3 @@
 const moment = require('moment');
 
-console.log(moment().toString());
+console.log(moment().toString())
